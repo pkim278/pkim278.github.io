@@ -1,9 +1,13 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Donald KIM
+date: 2022-11-18
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+DONALD KIM
+PORTFOLIO MANAGER
+- Asset Allocation / EMPs
+- Quantitative research
+- Equity research
