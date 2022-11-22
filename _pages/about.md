@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-DONALD KIM
+DONALD KIM  
 PORTFOLIO MANAGER
 - Asset Allocation / EMPs
 - Quantitative research

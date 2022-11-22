@@ -4,8 +4,7 @@ title: Donald test blog
 permalink: /
 ---
 
-## Donald test blog
-Dunamu Investment Managment
+## DONALD KIM
 
 Portfolio Manager
 - Equity Research (DCF Valuation)
@@ -14,8 +13,9 @@ Portfolio Manager
 
 Skill  
 - Data: Python, Pandas, Numpy, Scikit-learn, Postgresql  
-- Frontend: React, Javascript
+- Frontend: React, JS
 - Backend: Nodejs
-- Python (Pandas, Numpy,)  
+- Database: Postgresql
+- Deployment & Development Tools: Github, GitLab, Amazon Elastic Beanstalk
 
-LinkedIn: https://www.linkedin.com/in/pyungkyu-kim-b9334a14/
+LinkedIn: [https://www.linkedin.com/in/pyungkyu-kim-b9334a14/](https://www.linkedin.com/in/pyungkyu-kim-b9334a14)
