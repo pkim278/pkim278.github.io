@@ -7,7 +7,7 @@ layout: post
 ---
 
 DONALD KIM  
-PORTFOLIO MANAGER
+PORTFOLIO MANAGER  
 - Asset Allocation / EMPs
 - Quantitative research
 - Equity research
