@@ -25,8 +25,8 @@ toc:
 favicon_path:     /assets/gitbook/images/favicon.ico
 
 # Google Analytics tracking ID
-google_analytics:
-  tracking_id: G-E6G46C79DF
+tracker:
+  google_analytics: "G-E6G46C79DF"
 
 # markdown render engine.
 markdown:         kramdown
